@@ -1,0 +1,5 @@
+{"first_name":"cone","last_name":"step","username":"conesteps","email":"conesteps@fakemail.com","password":"conestep1"}
+{"first_name":"Conner","last_name":"Stephens","username":"52conner","email":"connerstephens52@gmail.com","password":"conner52"}
+{"first_name":"conner","last_name":"Stephens","username":"conesfwf","email":"StephensC10@mymail.nku.edu","password":"apple"}
+{"first_name":"phil","last_name":"albertson1244","username":"sdvnsom","email":"acea@mail.com","password":"apple"}
+{"first_name":"phil","last_name":"albert","username":"philablerwegwef","email":"areafg@gmail.com","password":"apple"}

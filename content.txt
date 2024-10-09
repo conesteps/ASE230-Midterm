@@ -1,0 +1,4 @@
+homepage_title=Manage Your Projects with Ease
+homepage_intro=Welcome to your project management portfolio! This website allows you to add, modify, and store your projects. Use it to organize and showcase your work to potential employers or collaborators.
+homepage_cta=Start Organizing Your Work Today!
+footer_text=Copyright &copy; Project Portfolio 2024
